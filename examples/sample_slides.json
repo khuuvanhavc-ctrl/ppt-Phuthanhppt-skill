@@ -1,0 +1,84 @@
+{
+  "presentation": {
+    "title": "Bài học Địa lí 6",
+    "subject": "Địa lí",
+    "grade": 6,
+    "topic": "Lớp đất trên Trái Đất"
+  },
+  "slides": [
+    {
+      "type": "title",
+      "title": "LỚP ĐẤT TRÊN TRÁI ĐẤT",
+      "subtitle": "Địa lí 6 – Khám phá lớp đất và các thành phần của đất"
+    },
+    {
+      "type": "content",
+      "title": "1. Đất là gì?",
+      "bullets": [
+        "Đất là lớp vật chất mỏng, tơi xốp bao phủ trên bề mặt các lục địa và đảo.",
+        "Đất được hình thành do quá trình phong hóa đá và sự tác động của sinh vật.",
+        "Đất có vai trò quan trọng đối với sản xuất nông nghiệp và đời sống con người."
+      ]
+    },
+    {
+      "type": "content",
+      "title": "2. Các thành phần của đất",
+      "bullets": [
+        "Khoáng chất: được hình thành chủ yếu từ quá trình phong hóa đá.",
+        "Chất hữu cơ: hình thành từ xác động, thực vật bị phân hủy.",
+        "Nước và không khí: tồn tại trong các khe hổng của đất.",
+        "Các thành phần này kết hợp với nhau tạo nên độ phì của đất."
+      ]
+    },
+    {
+      "type": "content",
+      "title": "3. Độ phì của đất",
+      "bullets": [
+        "Độ phì là khả năng cung cấp nước, chất dinh dưỡng và các điều kiện cần thiết cho cây trồng.",
+        "Đất có độ phì cao thường thuận lợi cho sản xuất nông nghiệp.",
+        "Con người cần sử dụng đất hợp lí để duy trì và nâng cao độ phì."
+      ]
+    },
+    {
+      "type": "content",
+      "title": "4. Các nhân tố hình thành đất",
+      "bullets": [
+        "Đá mẹ",
+        "Khí hậu",
+        "Sinh vật",
+        "Địa hình",
+        "Thời gian",
+        "Hoạt động của con người"
+      ]
+    },
+    {
+      "type": "content",
+      "title": "5. Hoạt động khám phá",
+      "bullets": [
+        "Quan sát một mẫu đất hoặc hình ảnh về đất.",
+        "Xác định màu sắc, thành phần và độ ẩm của đất.",
+        "Thảo luận: Vì sao cần bảo vệ tài nguyên đất?",
+        "Đề xuất một biện pháp sử dụng đất hợp lí."
+      ]
+    },
+    {
+      "type": "content",
+      "title": "6. Câu hỏi củng cố",
+      "bullets": [
+        "Đất gồm những thành phần chủ yếu nào?",
+        "Độ phì của đất có ý nghĩa gì đối với cây trồng?",
+        "Những nhân tố nào tham gia vào quá trình hình thành đất?",
+        "Em hãy nêu một biện pháp bảo vệ tài nguyên đất."
+      ]
+    },
+    {
+      "type": "content",
+      "title": "7. Kết luận",
+      "bullets": [
+        "Đất là tài nguyên thiên nhiên quan trọng.",
+        "Đất được hình thành qua thời gian dài dưới tác động của nhiều nhân tố.",
+        "Sử dụng đất hợp lí và bảo vệ đất là trách nhiệm của mỗi người."
+      ]
+    }
+  ]
+}
